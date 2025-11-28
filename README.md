@@ -6,7 +6,7 @@ Passionate software developer who builds digital systems that actually work. Fro
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full-stack developer currently pursuing my Master's in Computer Science at the University of Strasbourg. I specialize in building scalable web and mobile applications using modern tech stacks. Whether it's digitalizing workflows for enterprises or creating custom solutions for local businesses, I love solving real-world problems with code.
 
@@ -14,7 +14,7 @@ When I'm not coding, I'm probably exploring new frameworks, tinkering with Docke
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -28,13 +28,13 @@ When I'm not coding, I'm probably exploring new frameworks, tinkering with Docke
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 I build end-to-end digital solutions that solve real business problems. From enterprise web platforms to custom Android applications, I handle everything from initial development to deployment and maintenance. My work spans digitalizing workflows, creating admin dashboards, building mobile kiosks, and developing full-stack applications that are secure, scalable, and production-ready. I'm comfortable working with client infrastructure, deploying on various environments, and delivering solutions that meet specific business requirements
 
 ---
 
-## 📚 Education
+## Education
 
 **Master's in Health Sector Commerce & Marketing**  
 University of Upper Alsace | 2025–2027
@@ -44,20 +44,20 @@ University of Strasbourg | 2022–2025
 
 ---
 
-## 🌍 Languages
+## Languages
 
 🇫🇷 **French:** Native  
 🇬🇧 **English:** Intermediate (B2)
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 Check out my work: **[moha-df.fr](https://moha-df.fr)**
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Soki._) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/df_momo) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@moha-df.fr)
 
